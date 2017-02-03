@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+
+<log4j:configuration debug="false">
+
+
+	<appender name="CONSOLELOG" class="org.apache.log4j.ConsoleAppender">
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d - %c -%-4r [%t] %-5p %x - %m%n" />
+		</layout>
+	</appender>
+
+	<category name="net.sf.ehcache">
+		<level value="INFO"/>
+	</category>
+	<category name="java.sql">
+		<priority value="INFO"/>
+	</category>
+	<category name="org.springframework.amqp">
+		<priority value="INFO"/>
+	</category>
+	<category name="com.alisoft.xplatform">
+		<priority value="ERROR"/>
+	</category>
+	<category name="com.mchange.v2">
+		<priority value="ERROR"/>
+		<appender-ref ref="CONSOLELOG"/>
+	</category>
+	<category name="com.yeepay.g3.utils">
+		<priority value="ERROR"/>
+		<appender-ref ref="CONSOLELOG"/>
+	</category>
+	<category name="com.yeepay.g3.utils.common.datasource">
+		<priority value="ERROR"/>
+		<appender-ref ref="CONSOLELOG"/>
+	</category>
+	<category name="org.apache.zookeeper">
+		<priority value="ERROR"/>
+		<appender-ref ref="CONSOLELOG"/>
+	</category>
+	<category name="com.alibaba.dubbo">
+		<priority value="ERROR"/>
+		<appender-ref ref="CONSOLELOG"/>
+	</category>
+	<category name="com.mchange" additivity="false">
+		<priority value="ERROR"/>
+		<appender-ref ref="CONSOLELOG"/>
+	</category>
+
+
+	<root>
+		<priority value="INFO"/>
+		<appender-ref ref="CONSOLELOG"/>
+	</root>
+</log4j:configuration>

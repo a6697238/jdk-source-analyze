@@ -1,0 +1,306 @@
+INFO  01/06, 03:56:44 fka.utils.VerifiableProperties Verifying properties
+INFO  01/06, 03:56:44 fka.utils.VerifiableProperties Property metadata.broker.list is overridden to 172.17.103.188:9092
+INFO  01/06, 03:56:44 fka.utils.VerifiableProperties Property serializer.class is overridden to kafka.serializer.StringEncoder
+INFO  01/06, 03:56:44 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 0 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 03:56:44 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 03:56:44 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 03:56:44 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 03:58:30 fka.utils.VerifiableProperties Verifying properties
+INFO  01/06, 03:58:30 fka.utils.VerifiableProperties Verifying properties
+INFO  01/06, 03:58:30 fka.utils.VerifiableProperties Property metadata.broker.list is overridden to 172.17.103.188:9092
+INFO  01/06, 03:58:30 fka.utils.VerifiableProperties Property serializer.class is overridden to kafka.serializer.StringEncoder
+INFO  01/06, 03:58:30 fka.utils.VerifiableProperties Property metadata.broker.list is overridden to 172.17.103.188:9092
+INFO  01/06, 03:58:30 fka.utils.VerifiableProperties Property serializer.class is overridden to kafka.serializer.StringEncoder
+INFO  01/06, 03:58:30 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 0 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 03:58:30 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 0 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 03:58:30 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 03:58:30 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 03:58:30 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 03:58:30 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 03:58:30 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 03:58:30 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:06:45 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 1205 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 04:06:45 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:06:45 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:06:45 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:06:45 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:08:31 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 1205 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 04:08:31 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:08:31 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:08:31 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:08:31 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:08:31 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 1205 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 04:08:31 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:08:31 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:08:31 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:08:31 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:16:45 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 2406 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 04:16:45 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:16:45 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:16:45 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:16:45 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:18:31 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 2406 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 04:18:31 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:18:31 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:18:31 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:18:31 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:18:31 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 2406 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 04:18:31 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:18:31 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:18:31 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:18:31 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:26:46 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 3609 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 04:26:46 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:26:46 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:26:46 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:26:46 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:28:32 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 3609 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 04:28:32 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 3609 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 04:28:32 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:28:32 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:28:32 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:28:32 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:28:32 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:28:32 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:28:32 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:28:32 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:36:46 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 4810 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 04:36:46 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:36:46 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:36:46 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:36:46 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:38:32 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 4810 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 04:38:32 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:38:32 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:38:32 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:38:32 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:38:32 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 4810 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 04:38:32 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:38:32 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:38:32 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:38:32 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:46:46 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 6011 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 04:46:46 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:46:46 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:46:46 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:46:46 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:48:33 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 6013 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 04:48:33 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:48:33 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:48:33 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:48:33 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:48:33 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 6013 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 04:48:33 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:48:33 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:48:33 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:48:33 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:59:15 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 6130 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 04:59:15 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 6342 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 04:59:15 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:59:15 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:59:15 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:59:15 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 04:59:15 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 6130 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 04:59:15 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 04:59:15 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+WARN  01/06, 04:59:15 kafka.client.ClientUtils$ Fetching topic metadata with correlation id 6130 for topics [Set(YPT_KAFKA_TASK_DATA_TOPIC)] from broker [id:0,host:172.17.103.188,port:9092] failed
+java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:100)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:73)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:72)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:113)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:58)
+	at kafka.producer.BrokerPartitionInfo.updateInfo(BrokerPartitionInfo.scala:82)
+	at kafka.producer.async.DefaultEventHandler$$anonfun$handle$1.apply$mcV$sp(DefaultEventHandler.scala:67)
+	at kafka.utils.Utils$.swallow(Utils.scala:172)
+	at kafka.utils.Logging$class.swallowError(Logging.scala:106)
+	at kafka.utils.Utils$.swallowError(Utils.scala:45)
+	at kafka.producer.async.DefaultEventHandler.handle(DefaultEventHandler.scala:67)
+	at kafka.producer.Producer.send(Producer.scala:77)
+	at kafka.javaapi.producer.Producer.send(Producer.scala:33)
+	at org.apache.jmeter.reporters.KafkaProducer.send(KafkaProducer.java:38)
+	at org.apache.jmeter.reporters.Summariser.format(Summariser.java:298)
+	at org.apache.jmeter.reporters.Summariser.sampleOccurred(Summariser.java:212)
+	at org.apache.jmeter.threads.ListenerNotifier.notifyListeners(ListenerNotifier.java:67)
+	at org.apache.jmeter.threads.JMeterThread.notifyListeners(JMeterThread.java:848)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:501)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:414)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:241)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  01/06, 04:59:15 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+ERROR 01/06, 04:59:15 kafka.utils.Utils$   fetching topic metadata for topics [Set(YPT_KAFKA_TASK_DATA_TOPIC)] from broker [ArrayBuffer(id:0,host:172.17.103.188,port:9092)] failed
+kafka.common.KafkaException: fetching topic metadata for topics [Set(YPT_KAFKA_TASK_DATA_TOPIC)] from broker [ArrayBuffer(id:0,host:172.17.103.188,port:9092)] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:72)
+	at kafka.producer.BrokerPartitionInfo.updateInfo(BrokerPartitionInfo.scala:82)
+	at kafka.producer.async.DefaultEventHandler$$anonfun$handle$1.apply$mcV$sp(DefaultEventHandler.scala:67)
+	at kafka.utils.Utils$.swallow(Utils.scala:172)
+	at kafka.utils.Logging$class.swallowError(Logging.scala:106)
+	at kafka.utils.Utils$.swallowError(Utils.scala:45)
+	at kafka.producer.async.DefaultEventHandler.handle(DefaultEventHandler.scala:67)
+	at kafka.producer.Producer.send(Producer.scala:77)
+	at kafka.javaapi.producer.Producer.send(Producer.scala:33)
+	at org.apache.jmeter.reporters.KafkaProducer.send(KafkaProducer.java:38)
+	at org.apache.jmeter.reporters.Summariser.format(Summariser.java:298)
+	at org.apache.jmeter.reporters.Summariser.sampleOccurred(Summariser.java:212)
+	at org.apache.jmeter.threads.ListenerNotifier.notifyListeners(ListenerNotifier.java:67)
+	at org.apache.jmeter.threads.JMeterThread.notifyListeners(JMeterThread.java:848)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:501)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:414)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:241)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:100)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:73)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:72)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:113)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:58)
+	... 17 more
+WARN  01/06, 04:59:15 kafka.client.ClientUtils$ Fetching topic metadata with correlation id 6342 for topics [Set(YPT_KAFKA_TASK_DATA_TOPIC)] from broker [id:0,host:172.17.103.188,port:9092] failed
+java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:100)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:73)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:72)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:113)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:58)
+	at kafka.producer.BrokerPartitionInfo.updateInfo(BrokerPartitionInfo.scala:82)
+	at kafka.producer.async.DefaultEventHandler$$anonfun$handle$1.apply$mcV$sp(DefaultEventHandler.scala:67)
+	at kafka.utils.Utils$.swallow(Utils.scala:172)
+	at kafka.utils.Logging$class.swallowError(Logging.scala:106)
+	at kafka.utils.Utils$.swallowError(Utils.scala:45)
+	at kafka.producer.async.DefaultEventHandler.handle(DefaultEventHandler.scala:67)
+	at kafka.producer.Producer.send(Producer.scala:77)
+	at kafka.javaapi.producer.Producer.send(Producer.scala:33)
+	at org.apache.jmeter.reporters.KafkaProducer.send(KafkaProducer.java:38)
+	at org.apache.jmeter.reporters.Summariser.format(Summariser.java:298)
+	at org.apache.jmeter.reporters.Summariser.sampleOccurred(Summariser.java:212)
+	at org.apache.jmeter.threads.ListenerNotifier.notifyListeners(ListenerNotifier.java:67)
+	at org.apache.jmeter.threads.JMeterThread.notifyListeners(JMeterThread.java:848)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:501)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:414)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:241)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  01/06, 04:59:15 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+ERROR 01/06, 04:59:15 kafka.utils.Utils$   fetching topic metadata for topics [Set(YPT_KAFKA_TASK_DATA_TOPIC)] from broker [ArrayBuffer(id:0,host:172.17.103.188,port:9092)] failed
+kafka.common.KafkaException: fetching topic metadata for topics [Set(YPT_KAFKA_TASK_DATA_TOPIC)] from broker [ArrayBuffer(id:0,host:172.17.103.188,port:9092)] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:72)
+	at kafka.producer.BrokerPartitionInfo.updateInfo(BrokerPartitionInfo.scala:82)
+	at kafka.producer.async.DefaultEventHandler$$anonfun$handle$1.apply$mcV$sp(DefaultEventHandler.scala:67)
+	at kafka.utils.Utils$.swallow(Utils.scala:172)
+	at kafka.utils.Logging$class.swallowError(Logging.scala:106)
+	at kafka.utils.Utils$.swallowError(Utils.scala:45)
+	at kafka.producer.async.DefaultEventHandler.handle(DefaultEventHandler.scala:67)
+	at kafka.producer.Producer.send(Producer.scala:77)
+	at kafka.javaapi.producer.Producer.send(Producer.scala:33)
+	at org.apache.jmeter.reporters.KafkaProducer.send(KafkaProducer.java:38)
+	at org.apache.jmeter.reporters.Summariser.format(Summariser.java:298)
+	at org.apache.jmeter.reporters.Summariser.sampleOccurred(Summariser.java:212)
+	at org.apache.jmeter.threads.ListenerNotifier.notifyListeners(ListenerNotifier.java:67)
+	at org.apache.jmeter.threads.JMeterThread.notifyListeners(JMeterThread.java:848)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:501)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:414)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:241)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:100)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:73)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:72)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:113)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:58)
+	... 17 more
+WARN  01/06, 04:59:15 kafka.client.ClientUtils$ Fetching topic metadata with correlation id 6130 for topics [Set(YPT_KAFKA_TASK_DATA_TOPIC)] from broker [id:0,host:172.17.103.188,port:9092] failed
+java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:100)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:73)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:72)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:113)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:58)
+	at kafka.producer.BrokerPartitionInfo.updateInfo(BrokerPartitionInfo.scala:82)
+	at kafka.producer.async.DefaultEventHandler$$anonfun$handle$1.apply$mcV$sp(DefaultEventHandler.scala:67)
+	at kafka.utils.Utils$.swallow(Utils.scala:172)
+	at kafka.utils.Logging$class.swallowError(Logging.scala:106)
+	at kafka.utils.Utils$.swallowError(Utils.scala:45)
+	at kafka.producer.async.DefaultEventHandler.handle(DefaultEventHandler.scala:67)
+	at kafka.producer.Producer.send(Producer.scala:77)
+	at kafka.javaapi.producer.Producer.send(Producer.scala:33)
+	at org.apache.jmeter.reporters.KafkaProducer.send(KafkaProducer.java:38)
+	at org.apache.jmeter.reporters.Summariser.format(Summariser.java:298)
+	at org.apache.jmeter.reporters.Summariser.sampleOccurred(Summariser.java:212)
+	at org.apache.jmeter.threads.ListenerNotifier.notifyListeners(ListenerNotifier.java:67)
+	at org.apache.jmeter.threads.JMeterThread.notifyListeners(JMeterThread.java:848)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:501)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:414)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:241)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  01/06, 04:59:15 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+ERROR 01/06, 04:59:15 kafka.utils.Utils$   fetching topic metadata for topics [Set(YPT_KAFKA_TASK_DATA_TOPIC)] from broker [ArrayBuffer(id:0,host:172.17.103.188,port:9092)] failed
+kafka.common.KafkaException: fetching topic metadata for topics [Set(YPT_KAFKA_TASK_DATA_TOPIC)] from broker [ArrayBuffer(id:0,host:172.17.103.188,port:9092)] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:72)
+	at kafka.producer.BrokerPartitionInfo.updateInfo(BrokerPartitionInfo.scala:82)
+	at kafka.producer.async.DefaultEventHandler$$anonfun$handle$1.apply$mcV$sp(DefaultEventHandler.scala:67)
+	at kafka.utils.Utils$.swallow(Utils.scala:172)
+	at kafka.utils.Logging$class.swallowError(Logging.scala:106)
+	at kafka.utils.Utils$.swallowError(Utils.scala:45)
+	at kafka.producer.async.DefaultEventHandler.handle(DefaultEventHandler.scala:67)
+	at kafka.producer.Producer.send(Producer.scala:77)
+	at kafka.javaapi.producer.Producer.send(Producer.scala:33)
+	at org.apache.jmeter.reporters.KafkaProducer.send(KafkaProducer.java:38)
+	at org.apache.jmeter.reporters.Summariser.format(Summariser.java:298)
+	at org.apache.jmeter.reporters.Summariser.sampleOccurred(Summariser.java:212)
+	at org.apache.jmeter.threads.ListenerNotifier.notifyListeners(ListenerNotifier.java:67)
+	at org.apache.jmeter.threads.JMeterThread.notifyListeners(JMeterThread.java:848)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:501)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:414)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:241)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:100)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:73)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:72)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:113)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:58)
+	... 17 more
+INFO  01/06, 05:09:15 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 7331 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 05:09:15 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 7543 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 05:09:15 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 05:09:15 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 7331 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 05:09:15 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 05:09:15 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 05:09:15 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 05:09:15 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 05:09:15 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 05:09:15 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 05:09:15 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 05:09:15 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 05:09:15 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 05:09:15 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 05:09:15 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 05:19:16 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 8534 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 05:19:16 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 05:19:16 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 05:19:16 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 05:19:16 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 05:19:16 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 8746 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 05:19:16 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 8534 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 05:19:16 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 05:19:16 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 05:19:16 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 05:19:16 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 05:19:16 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 05:19:16 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 05:19:16 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 05:19:16 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 05:29:16 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 9735 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 05:29:16 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 05:29:16 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 05:29:16 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 05:29:16 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 05:29:16 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 9947 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 05:29:16 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 05:29:16 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 05:29:16 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 05:29:16 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 05:29:17 kafka.client.ClientUtils$ Fetching metadata from broker id:0,host:172.17.103.188,port:9092 with correlation id 9737 for 1 topic(s) Set(YPT_KAFKA_TASK_DATA_TOPIC)
+INFO  01/06, 05:29:17 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
+INFO  01/06, 05:29:17 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 05:29:17 kafka.producer.SyncProducer Disconnecting from 172.17.103.188:9092
+INFO  01/06, 05:29:17 kafka.producer.SyncProducer Connected to 172.17.103.188:9092 for producing
