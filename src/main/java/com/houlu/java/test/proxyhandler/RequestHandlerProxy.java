@@ -20,7 +20,11 @@ public class RequestHandlerProxy implements InvocationHandler {
     }
 
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
-        System.out.println("Method:"+ method + ",Args:" + args);
+        doProxy();
         return method.invoke(requestHandler, args);
+    }
+
+    public void doProxy(){
+        System.out.println(this.getClass()+"正在代理");
     }
 }

@@ -13,14 +13,12 @@ import java.lang.reflect.Proxy;
  */
 public class ProxyTest {
     public static void main(String[] args) {
-        RequestHandler requestHandler = new RequestHandlerImpl();
+        RequestHandler requestHandler = new RequestHandlerImpl("测试构造器参数");
         InvocationHandler handler = new RequestHandlerProxy(requestHandler);
         Class<?> classType = requestHandler.getClass();
         RequestHandler requestHandlerProxy = (RequestHandler) Proxy.newProxyInstance(classType.getClassLoader(),
                 requestHandler.getClass().getInterfaces(), handler);
         System.out.println(requestHandlerProxy.getClass());
-
-
         System.out.println(requestHandlerProxy.doRequest("请求节点"));
 
     }

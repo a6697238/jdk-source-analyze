@@ -3,6 +3,7 @@ package com.houlu.java.test.reflect;
 import com.houlu.java.test.bean.StudentBean;
 
 import java.lang.reflect.Constructor;
+import java.lang.reflect.InvocationHandler;
 
 /**
  * 类名称: GetConstruct <br>
@@ -14,20 +15,23 @@ import java.lang.reflect.Constructor;
  */
 public class GetConstruct {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws NoSuchMethodException {
 
-        Class<?> classType = StudentBean.class;
+        Class<StudentBean> classType = StudentBean.class;
 
         // 使用getConstructors获取构造器
         Constructor<?>[] constructors = classType.getConstructors();
         for (Constructor<?> m : constructors) {
             System.out.println(m);
-
         }
-
         System.out.println();
 
-// 使用getDeclaredConstructors获取构造器
+
+        Constructor<StudentBean> constructor= classType.getConstructor(new Class<?>[]{String.class,String.class});
+        System.out.println(constructor);
+        System.out.println();
+
+        // 使用getDeclaredConstructors获取构造器
         constructors = classType.getDeclaredConstructors();
         for (Constructor<?> m : constructors) {
             System.out.println(m);

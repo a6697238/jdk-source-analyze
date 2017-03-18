@@ -10,6 +10,8 @@ package com.houlu.java.test.bean;
  */
 public class StudentBean extends UserBean {
 
+
+
     private String job;
 
     private String school;
@@ -52,7 +54,14 @@ public class StudentBean extends UserBean {
         this.studentId=studentId;
     }
 
-    public StudentBean(){
+    public StudentBean(String job, String school) {
+        this.job = job;
+        this.school = school;
+    }
 
+    public StudentBean(String job, String school, String studentId) {
+        this.job = job;
+        this.school = school;
+        this.studentId = studentId;
     }
 }
