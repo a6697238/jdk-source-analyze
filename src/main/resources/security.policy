@@ -1,0 +1,39 @@
+grant {
+   permission java.security.AllPermission;
+};
+
+
+grant codeBase "file:/Users/yp-pc-m-7120/EclipseWorkSpace/JavaTest/jdk-source-analyze/src/main/resources/-"{
+//对系统和用户目录“读”的权限
+permission java.util.PropertyPermission "user.dir", "read";
+permission java.util.PropertyPermission "user.home", "read";
+permission java.util.PropertyPermission "java.home", "read";
+permission java.util.PropertyPermission "java.class.path", "read";
+permission java.util.PropertyPermission  "user.name", "read";
+
+
+//对线程和线程组的操作权限
+permission java.lang.RuntimePermission "modifyThread";
+permission java.lang.RuntimePermission "modifyThreadGroup";
+
+
+//操作Socket端口的各种权限
+permission java.net.SocketPermission "-", "listen";
+permission java.net.SocketPermission "-", "accept";
+permission java.net.SocketPermission "-", "connect";
+//permission java.net.SocketPermission "-", "read";
+//permission java.net.SocketPermission "-", "write";
+
+//读写文件的权限
+permission java.io.FilePermission "-", "read";
+permission java.io.FilePermission "-", "write";
+
+//退出系统的权限，例如System.exit(0)
+//permission java.lang.RuntimePermission "exitVM";
+
+
+//idea 相关
+permission java.util.PropertyPermission  "idea.launcher.port", "read";
+permission java.util.PropertyPermission  "idea.launcher.bin.path", "read";
+permission java.lang.RuntimePermission "loadLibrary./Applications/IntelliJ IDEA.app/Contents/bin/libbreakgen64.jnilib";
+};
