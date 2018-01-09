@@ -1,6 +1,7 @@
 package com.houlu.java.test.compiler.disk;
 
-import com.meituan.thrift.demo.compile.JavaSourceFileObject;
+
+import com.houlu.java.test.compiler.JavaSourceFileObject;
 
 import javax.tools.*;
 import java.util.Arrays;
